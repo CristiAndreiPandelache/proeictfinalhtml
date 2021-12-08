@@ -7,3 +7,6 @@ Am facut 3 pagini ( studii , opere, si poze de la diverse evenimente   ) + index
 Paginile le-am pus in folderul /pages/  , style in /styles/syles.css
 
   Am lucrat in VS Code
+
+- Nu am adaugat imagine pe fundal pentru ca nu ii vad rostul la cum arata, am preferat sa il las asa cum este.
+- Pe cel pentru portofliu la care lucrez, o sa adaug imagini pe fundal.
