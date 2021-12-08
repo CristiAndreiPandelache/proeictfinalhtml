@@ -1,0 +1,9 @@
+Informatii :
+
+
+Am adaugat icons sper sa nu deranjeze ( la navigatie )
+Am facut un site basic, daca nu e ce trebuie il pot dezolvata la un nivel mai mare.
+Am facut 3 pagini ( studii , opere, si poze de la diverse evenimente   ) + index.html 
+Paginile le-am pus in folderul /pages/  , style in /styles/syles.css
+
+  Am lucrat in VS Code
